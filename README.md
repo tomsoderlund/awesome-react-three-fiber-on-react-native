@@ -10,7 +10,17 @@ Please [create PR’s](https://github.com/tomsoderlund/awesome-react-three-fiber
 
 ## Getting started
 
-- [Basic example ![Basic example](images/basic-example.gif)](https://snack.expo.dev/@tomsoderlund/react-three-fiber-on-react-native---basic-example)
+- [Basic “Hello World” example ![Basic example](images/basic-example.gif)](https://snack.expo.dev/@tomsoderlund/react-three-fiber-on-react-native---basic-example)
+- You can use [all the objects in Three.js](https://threejs.org/docs/#api/en/geometries/BoxGeometry).
+- [Drei](https://github.com/pmndrs/drei) is a helpful library of extra tools.
+
+### Installation
+	
+	# Install Expo GL
+	npx expo install expo-gl
+
+	# Install Three.js and R3F
+	npm install three @react-three/fiber
 
 ## Videos
 
