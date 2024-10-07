@@ -6,16 +6,13 @@ See also: [Awesome React Three Fiber](https://github.com/gsimone/awesome-react-t
 
 ## Contributing
 
-Please create PR’s (or issues) if you want to contribute! Just add an entry to this README. Self promotion is welcome.
+Please [create PR’s](https://github.com/tomsoderlund/awesome-react-three-fiber-on-react-native/pulls) (or issues) if you want to contribute! Just add an entry to this README. Self promotion is welcome.
 
 ## Getting started
 
-- [Basic example](https://snack.expo.dev/@tomsoderlund/react-three-fiber-on-react-native---basic-example)
-
-![Basic example](images/basic-example.gif)
+- [Basic example ![Basic example](images/basic-example.gif)](https://snack.expo.dev/@tomsoderlund/react-three-fiber-on-react-native---basic-example)
 
 ## Videos
 
 - [3D Food Delivery App w/ React Native and React three Fiber ![](https://img.youtube.com/vi/oCU5j5P20To/sddefault.jpg)](https://www.youtube.com/watch?v=oCU5j5P20To)
 - [React Native 3D Three.Js | Load 3D Model With React Three Fiber and Drei ![](https://img.youtube.com/vi/O8q8H9c9XZ4/sddefault.jpg)](https://www.youtube.com/watch?v=O8q8H9c9XZ4)
-
